@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋, I am Ritik Gupta
+
+### I am interested in Web Development and like Competitive Programming.
+
+##### Tech Stack
+`
+C++, C, JavaScript, Node.js, Express.js, MongoDB, React.js, MySQL
+`
 
 <!--
 **ritikgupta28/ritikgupta28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
