@@ -1,10 +1,10 @@
-## Hi there 👋, I am Ritik Gupta
+# Hi there 👋, I am Ritik Gupta
 
-### I am interested in Web Development and like Competitive Programming.
+## I like Competitive Programming and interested in Web Development.
 
-##### Tech Stack
+#### Tech Stack
 `
-C++, C, JavaScript, Node.js, Express.js, MongoDB, React.js, MySQL
+C++, C, JavaScript, Node.js, Express.js, MongoDB, React.js, MySQL, HTML
 `
 
 <!--
